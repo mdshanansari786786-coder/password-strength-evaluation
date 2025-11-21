@@ -21,22 +21,21 @@ password-strength-evaluation/
 - **Strength Evaluation:** Scores & feedback from password strength tools  
 - **Security Analysis:** What makes a password strong  
 - **Research Section:** Summary of common password attacks  
-- **Screenshots:** Placeholder images for password meter results  
+
 
 ---
 
 ## 🚀 How to Use This Repository
 
 1. Open `report.md` to read the full analysis.
-2. View your tool output screenshots in the `screenshots/` folder.
-3. Use `passwords-tested.txt` to see the sample passwords.
-4. Commit updates as you perform more tests or add real screenshots.
+2. Use `passwords-tested.txt` to see the sample passwords.
+3. Commit updates as you perform more tests or add real screenshots.
 
 ---
 
 ## ⚠️ Important Note
 All passwords included in this repository are **examples only**.  
-Do **NOT** use them for real accounts under any circumstances.
+
 
 ---
 
